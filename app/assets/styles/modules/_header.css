@@ -1,5 +1,7 @@
 .header {
-  
+  &__logo {
+    transform: scale(0.65);
+  }
 
   &__nav {
     float: right;
